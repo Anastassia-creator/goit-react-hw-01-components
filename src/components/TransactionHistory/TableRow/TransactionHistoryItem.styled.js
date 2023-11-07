@@ -10,7 +10,6 @@ export const Item = styled.tr`
   }
 
   &:hover {
-    background: linear-gradient(to bottom, #f2f9fe 0%, #d6f0fd 100%);
     transform: scale(1.01);
   }
 `
